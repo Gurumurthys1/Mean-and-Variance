@@ -1,7 +1,7 @@
 ```html
                      
-                                                                            NAME : GURUMURTHY S
-                                                                            REG. NO.: 212223230066
+                                                                       NAME : GURUMURTHY S
+                                                                       REG. NO.: 212223230066
 
 ```
 
@@ -80,7 +80,7 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 # Output : 
-![image](https://github.com/Gurumurthys1/Mean-and-Variance/assets/163425568/21c57c67-3954-4e11-b1ea-b853152d78e8)
+![image](https://github.com/Gurumurthys1/Mean-and-Variance/assets/163425568/2bae7d95-095d-44dd-8b55-5052c4691316)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
