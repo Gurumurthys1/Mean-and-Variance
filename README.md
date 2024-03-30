@@ -1,6 +1,6 @@
 ```html
                      
-                                                                            NAME : GURUMURTHY <BR>
+                                                                            NAME : GURUMURTHY S
                                                                             REG. NO.: 212223230066
 
 ```
